@@ -35,7 +35,7 @@ The objective is to analyse sales data and answer key business questions using S
 - Top 10 customers by revenue
 - Customers with the fewest orders
 
---
+---
 
 ## Key Business Insights
 - The majority of revenue comes from a small set of product categories
